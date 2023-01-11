@@ -24,6 +24,7 @@
 .day-number {
   font-size: 1.25rem;
   font-weight: 600;
+  display: inline-block;
 }
 
 .day-name {
@@ -40,4 +41,11 @@
 
 .bad {
   color: red;
+}
+
+.month-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  padding: 1%;
+  gap: 1%;
 }
