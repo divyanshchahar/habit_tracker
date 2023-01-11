@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* 
+###################
+# MOBILE DISPLAYS #
+###################
+*/
+
+.heading-1 {
+  text-align: center;
+  padding: 1rem;
+}
